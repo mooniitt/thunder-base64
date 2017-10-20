@@ -1,0 +1,23 @@
+{
+  "name": "thunder-base64",
+  "version": "0.0.1",
+  "description": "transform thunder'uri to commen uri or transform commen uri to thunder;'uri ",
+  "main": "./lib/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooniitt/thunder-base64.git"
+  },
+  "keywords": [
+    "base64",
+    "thunder",
+    "transfrom"
+  ],
+  "author": "mooniitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mooniitt/thunder-base64/issues"
+  },
+  "homepage": "https://github.com/mooniitt/thunder-base64#readme"
+}
